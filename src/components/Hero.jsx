@@ -15,7 +15,7 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#915eff]">Norman</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I build and maintain full stack applications using technologies such as Python, React Javascript, and MuleSoft.
+            I build and maintain full stack applications using technologies such as Python, React Javascript, Java and MuleSoft.
           </p>
         </div>
       </div>
